@@ -1,13 +1,13 @@
 ---
-title: "Great coffee with a conscience"
+title: "Great investments built on Distrbuted Ledger Technology (DLT)"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: JUSTIN OKPU & CO. LTD.
+    text: " Justin Okpu & Co Ltd is a provider of online marketplace for everyone who believes that every great investment shouldn't just be on traditional investment platforms, but the ability to transform investment into digital assets platforms, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Justin Okpu & Co Ltd is the ultimate marketplace for real investment lovers who want to learn about representing their physical real property on a digital token and will be exchangeable or transferable on decentralised secoudary marketplace where real estate investors can stake, farm and trade their digital assets to new real estate investors."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
