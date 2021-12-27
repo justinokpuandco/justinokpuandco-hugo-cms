@@ -1,6 +1,6 @@
 ---
 title: "Great investments built on Distrbuted Ledger Technology (DLT)"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Support sustainable investment yields, staking, farming while enjoying it's holding
 image: /img/home-jumbotron.jpg
 blurb:
     heading: JUSTIN OKPU & CO. LTD.
